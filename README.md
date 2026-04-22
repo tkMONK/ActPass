@@ -75,6 +75,6 @@ Make sure the following tools are installed:
 Clone or download the script:
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/tkMONK/ActPass.git
+cd ActPass
 chmod +x actpass.sh
