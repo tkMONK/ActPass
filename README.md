@@ -78,6 +78,8 @@ Clone or download the script:
 git clone https://github.com/tkMONK/ActPass.git
 cd ActPass
 chmod +x actpass.sh
+```
 
-<img width="1373" height="924" alt="image" src="https://github.com/user-attachments/assets/0eeaeba4-2f04-467f-9254-8d2fb393808e" />
+<img width="1373" height="924" alt="image" src="https://github.com/user-attachments/assets/622bf71f-e1de-403e-8e61-480b87a55fdc" />
+
 
