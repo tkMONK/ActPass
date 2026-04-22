@@ -1,6 +1,6 @@
 # ActPass - Active & Passive Reconnaissance Framework
 
-ActPass is a Bash-based reconnaissance framework for performing both passive and active information gathering against a target domain. It is designed for quick enumeration during recon phases and provides colorful terminal output with automatic logging of results.
+ActPass is a Bash-based reconnaissance framework for performing both passive and active information gathering against a target domain. It is designed for quick enumeration during recon phases and provides output with automatic logging of results.
 
 ## Features
 
@@ -78,3 +78,6 @@ Clone or download the script:
 git clone https://github.com/tkMONK/ActPass.git
 cd ActPass
 chmod +x actpass.sh
+
+<img width="1373" height="924" alt="image" src="https://github.com/user-attachments/assets/0eeaeba4-2f04-467f-9254-8d2fb393808e" />
+
