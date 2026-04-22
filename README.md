@@ -2,6 +2,8 @@
 
 ActPass is a Bash-based reconnaissance framework for performing both passive and active information gathering against a target domain. It is designed for quick enumeration during recon phases and provides output with automatic logging of results.
 
+<img width="1373" height="924" alt="image" src="https://github.com/user-attachments/assets/622bf71f-e1de-403e-8e61-480b87a55fdc" />
+
 ## Features
 
 - DNS record enumeration
@@ -80,6 +82,6 @@ cd ActPass
 chmod +x actpass.sh
 ```
 
-<img width="1373" height="924" alt="image" src="https://github.com/user-attachments/assets/622bf71f-e1de-403e-8e61-480b87a55fdc" />
+
 
 
